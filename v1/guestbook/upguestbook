@@ -1,0 +1,27 @@
+The push refers to repository [us.icr.io/sn-labs-harshalkhade/guestbook]
+06be0602e434: Preparing
+a30fbe7503d7: Preparing
+ca6f3ec15a2e: Preparing
+63cac28f8920: Preparing
+d52657f49381: Preparing
+3d0fc1f0c197: Preparing
+9fd30ff9d315: Preparing
+875b8fb676b2: Preparing
+8c0ba6a3f014: Preparing
+3e01818d79cd: Preparing
+875b8fb676b2: Waiting
+8c0ba6a3f014: Waiting
+3e01818d79cd: Waiting
+3d0fc1f0c197: Waiting
+9fd30ff9d315: Waiting
+63cac28f8920: Layer already exists
+06be0602e434: Layer already exists
+d52657f49381: Layer already exists
+ca6f3ec15a2e: Layer already exists
+a30fbe7503d7: Layer already exists
+3d0fc1f0c197: Layer already exists
+8c0ba6a3f014: Layer already exists
+9fd30ff9d315: Layer already exists
+875b8fb676b2: Layer already exists
+3e01818d79cd: Layer already exists
+v2: digest: sha256:842857719fcf8f20ac214b11684b7ed638874515ea5632cd5afeafe80cb1f1b6 size: 2412
